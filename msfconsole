@@ -11,3 +11,4 @@ case "$SCRIPT_NAME" in
 		exit 1
 		;;
 esac
+bb
